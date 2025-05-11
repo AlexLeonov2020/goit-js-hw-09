@@ -4,7 +4,6 @@
     flex-wrap: wrap;
     justify-content: center;
     gap: 24px;
-
     margin: 0 auto;
     max-width: 1128px;
 }
@@ -21,5 +20,4 @@
     width: 100%;
     height: auto;
     display: block;
-
     object-fit: cover; }
